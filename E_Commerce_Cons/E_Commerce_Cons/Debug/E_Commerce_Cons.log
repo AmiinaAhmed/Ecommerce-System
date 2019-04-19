@@ -1,0 +1,47 @@
+﻿Build started 26/12/2018 16:40:16.
+     1>Project "C:\Users\Eltabey\Documents\Visual Studio 2015\Projects\E_Commerce_Cons\E_Commerce_Cons\E_Commerce_Cons.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt HashTable.cpp Items.cpp Sorting.cpp Source.cpp user.cpp
+         user.cpp
+         Source.cpp
+     1>c:\users\eltabey\documents\visual studio 2015\projects\e_commerce_cons\e_commerce_cons\source.cpp(55): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\eltabey\documents\visual studio 2015\projects\e_commerce_cons\e_commerce_cons\source.cpp(187): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\eltabey\documents\visual studio 2015\projects\e_commerce_cons\e_commerce_cons\source.cpp(188): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\eltabey\documents\visual studio 2015\projects\e_commerce_cons\e_commerce_cons\source.cpp(198): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\eltabey\documents\visual studio 2015\projects\e_commerce_cons\e_commerce_cons\source.cpp(207): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\eltabey\documents\visual studio 2015\projects\e_commerce_cons\e_commerce_cons\source.cpp(208): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\eltabey\documents\visual studio 2015\projects\e_commerce_cons\e_commerce_cons\source.cpp(214): warning C4018: '>=': signed/unsigned mismatch
+     1>c:\users\eltabey\documents\visual studio 2015\projects\e_commerce_cons\e_commerce_cons\source.cpp(220): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\eltabey\documents\visual studio 2015\projects\e_commerce_cons\e_commerce_cons\source.cpp(227): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\eltabey\documents\visual studio 2015\projects\e_commerce_cons\e_commerce_cons\source.cpp(239): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\eltabey\documents\visual studio 2015\projects\e_commerce_cons\e_commerce_cons\source.cpp(240): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\eltabey\documents\visual studio 2015\projects\e_commerce_cons\e_commerce_cons\source.cpp(251): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\eltabey\documents\visual studio 2015\projects\e_commerce_cons\e_commerce_cons\source.cpp(257): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\eltabey\documents\visual studio 2015\projects\e_commerce_cons\e_commerce_cons\source.cpp(267): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\eltabey\documents\visual studio 2015\projects\e_commerce_cons\e_commerce_cons\source.cpp(269): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\eltabey\documents\visual studio 2015\projects\e_commerce_cons\e_commerce_cons\source.cpp(270): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\eltabey\documents\visual studio 2015\projects\e_commerce_cons\e_commerce_cons\source.cpp(291): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\eltabey\documents\visual studio 2015\projects\e_commerce_cons\e_commerce_cons\source.cpp(292): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\eltabey\documents\visual studio 2015\projects\e_commerce_cons\e_commerce_cons\source.cpp(301): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\eltabey\documents\visual studio 2015\projects\e_commerce_cons\e_commerce_cons\source.cpp(302): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\eltabey\documents\visual studio 2015\projects\e_commerce_cons\e_commerce_cons\source.cpp(414): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\eltabey\documents\visual studio 2015\projects\e_commerce_cons\e_commerce_cons\source.cpp(437): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\eltabey\documents\visual studio 2015\projects\e_commerce_cons\e_commerce_cons\source.cpp(467): warning C4018: '<': signed/unsigned mismatch
+         Sorting.cpp
+         Items.cpp
+         HashTable.cpp
+     1>c:\users\eltabey\documents\visual studio 2015\projects\e_commerce_cons\e_commerce_cons\hashtable.cpp(38): warning C4018: '<': signed/unsigned mismatch
+         Generating Code...
+     1>c:\users\eltabey\documents\visual studio 2015\projects\e_commerce_cons\e_commerce_cons\user.cpp(75): warning C4715: 'user::login': not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Eltabey\Documents\Visual Studio 2015\Projects\E_Commerce_Cons\Debug\E_Commerce_Cons.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Eltabey\Documents\Visual Studio 2015\Projects\E_Commerce_Cons\Debug\E_Commerce_Cons.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Eltabey\Documents\Visual Studio 2015\Projects\E_Commerce_Cons\Debug\E_Commerce_Cons.lib" /MACHINE:X86 Debug\HashTable.obj
+         Debug\Items.obj
+         Debug\Sorting.obj
+         Debug\Source.obj
+         Debug\user.obj
+         E_Commerce_Cons.vcxproj -> C:\Users\Eltabey\Documents\Visual Studio 2015\Projects\E_Commerce_Cons\Debug\E_Commerce_Cons.exe
+     1>Done Building Project "C:\Users\Eltabey\Documents\Visual Studio 2015\Projects\E_Commerce_Cons\E_Commerce_Cons\E_Commerce_Cons.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:09.57

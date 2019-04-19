@@ -1,0 +1,5 @@
+BMW.car ahmedabdo@yahoo.com 1 2500
+Kindle mariam@hotmail.com 4 500
+Stuart test@test.test 100 5005
+icewatch amlsh@yahoo.com 9 95
+sunglasses gasser@gmail.com 4 55
