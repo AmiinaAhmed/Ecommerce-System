@@ -1,2 +1,2 @@
 # E-commerce System
- refers to selling and buying products
+ refers to selling and buying products.
